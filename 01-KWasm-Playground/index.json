@@ -1,0 +1,17 @@
+{
+  "title": "KWasm.sh Playground ",
+  "description": "A kubeadm single node cluster with KWasm-operator",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "intro.sh"
+    },
+    "steps": [],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
