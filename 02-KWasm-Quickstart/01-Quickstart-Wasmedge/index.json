@@ -1,0 +1,25 @@
+{
+  "title": "Quickstart WasmEdge",
+  "description": "One minute tutorial to install KWasm and run a WasmEdge helllo-world job",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Install KWasm-operator",
+        "text": "step1.md"
+      },
+      {
+        "title": "Run WasmEdge hyper hello-world",
+        "text": "step2.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "title": "KWasm Quickstarts",
+    "description": "One minute tutorials to install KWasm and run a prebuilt image.",
+    "items": [
+      { "path": "01-Quickstart-Wasmedge" },
+      { "path": "02-Quickstart-Spin" }
+    ]
+  }

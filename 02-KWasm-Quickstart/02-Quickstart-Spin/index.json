@@ -1,0 +1,25 @@
+{
+  "title": "Quickstart Spin",
+  "description": "One minute tutorial to install KWasm and run a Spin helllo-world pod",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Install KWasm-operator",
+        "text": "step1.md"
+      },
+      {
+        "title": "Run Spin hello-world app",
+        "text": "step2.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
