@@ -1,6 +1,7 @@
 {
     "items": [
       { "path": "01-KWasm-Playground" },
-      { "path": "02-KWasm-Quickstart" }
+      { "path": "02-KWasm-Quickstart" },
+      { "path": "03-KWasm-Runtimes" }
     ]
   }

@@ -1,0 +1,29 @@
+{
+  "title": "Build a Spin Image",
+  "description": "Tutorial to create a Spin hello-wordl app in rust and it on Kubernetes",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Install Spin and prerequisites",
+        "text": "step1.md"
+      },
+      {
+        "title": "Bootstrap hello-world app",
+        "text": "step2.md"
+      },
+      {
+        "title": "Test and run your image",
+        "text": "step3.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

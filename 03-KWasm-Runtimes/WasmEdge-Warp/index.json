@@ -1,0 +1,29 @@
+{
+  "title": "Build a WasmEdge Image",
+  "description": "Tutorial to create a WasmEdge hello-wordl app in rust with hyper and it on Kubernetes",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Install WasmEdge and prerequisites",
+        "text": "step1.md"
+      },
+      {
+        "title": "Bootstrap hello-world app",
+        "text": "step2.md"
+      },
+      {
+        "title": "Test and run your image",
+        "text": "step3.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
